@@ -8,5 +8,5 @@ int main(void) {
     scanf("%d",&i);         // キーボードからiに入力
     result = i+100 ;                 // iに100を加えて、resultで受ける
     printf("%d", result);   //resultを表示
-    return 0;
+    return 0; 
 }
